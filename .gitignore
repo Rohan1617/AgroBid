@@ -1,0 +1,15 @@
+# Node / Next / React
+node_modules
+.next
+dist
+build
+
+# .NET
+bin
+obj
+
+# Env
+.env
+
+# OS
+.DS_Store
